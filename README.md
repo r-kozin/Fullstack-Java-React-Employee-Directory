@@ -50,7 +50,7 @@ This live version is hosted on Netlify and connects to a MySQL database in the c
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-###Live site: https://64f90c6e5f835a034c3f63a4--effulgent-nougat-10fef0.netlify.app/
+### Live site: https://64f90c6e5f835a034c3f63a4--effulgent-nougat-10fef0.netlify.app/
 
 ## Setup
 
